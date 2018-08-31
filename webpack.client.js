@@ -1,7 +1,6 @@
 const path = require('path')
 
 module.exports = {
-    target: 'node',
     entry: './src/client/index.js',
     // tell webpack where to put file
     output: {
